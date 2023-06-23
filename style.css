@@ -1,0 +1,30 @@
+body{
+  padding: 140px;
+ }
+ #contanier{
+ margin-left: auto;
+ margin-right: auto;
+ background-color: cornflowerblue;
+ padding: 5px;
+ width: 500px;
+ height: 200px;
+ }
+ h1{
+   text-align: center;
+   color: brown;
+ }
+ #box{
+ padding: 5px;
+ text-align: center;
+ white-space: 2px;
+ }
+ .lab{
+ font-size: larger;
+ display: block;
+ margin-top: 9px;
+ }
+ .inp{
+ padding: 2px;
+ }
+ 
+ 
